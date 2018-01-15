@@ -19,7 +19,7 @@ To run the script:
 python3 script.py
 ```
 
-To test the sctript:
+To test the script:
 ```
 python3 script_test.py
 ```
